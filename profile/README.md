@@ -6,3 +6,6 @@
 ### Minecraft Cheat Detector for 1.9+
 </div>
 <br/>
+
+
+Icon is from [Mutant Remix](https://mutant.revolt.chat)
